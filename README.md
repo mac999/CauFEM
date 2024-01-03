@@ -1,6 +1,9 @@
 # finite element method for truss analysis
 simple finite element method for truss analysis
 
+# version
+1.0, 2005.7.24, initial version for researching FEM</br>
+
 # installation
 1. install visual studio</br>
 2. build using caufem.dsw, dsp project files</br>
